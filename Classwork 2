@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            pratice
+        </title>
+       
+        
+    </head>
+    <body>
+       <h1>Not a Real CRM</h1>
+       
+
+       <ul>
+           <li><a href="#desc">Home</a></li>
+           <li><a href="#rel">Catalog</a></li>
+           <li><a href="#rev">Inventory</a></li>
+       </ul>
+
+       <h3>Contacts</h3>
+
+       <h3>My CRM</h3>
+        <ul>
+            <li><a href="#dummy">Contacts</a></li>
+            <li><a href="#dummy">Orders</a></li>
+            <li><a href="#dummy">Calendar</a></li>
+            <li><a href="#dummy">Task</a></li>
+            <li><a href="#dummy">Evaluation Copies</a></li>
+        </ul>
+
+        <h3>Jack Smith</h3>
+        <p> Address: the statue of liberty <br>City: new york harbour<br>Region: new york city<br>Country: USA<br>Postal: (212)363-3200 <br> Email :jacksmith56@gmail.com</p>
+        <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.3063874233103!2d-74.04668908484751!3d40.689249379334484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25090129c363d%3A0x40c6a5770d25022b!2sStatue%20of%20Liberty!5e0!3m2!1sen!2sin!4v1650646340911!5m2!1sen!2sin"> width="500" ></iframe>
+            <p><i>Map of statue of Liberity</i></p>
+         <h3>Last Contact Viewed</h3>
+          <p>Bharat</p> 
+         <p> University of Harvad</p>
+         <div>
+            <a href="#dummy"> HOME <span>|</span></a>
+            <a href="#dummy"> BROWSE <span>|</span></a>
+            <a href="#dummy"> SEARCH <span>|</span></a>
+        </div>
+
+        <p><i>Copyright © Sharath 2001 </i></p>
+        
+        </div>
+    </body>
+</html>
