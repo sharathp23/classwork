@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>SHARE YOUR TRAVELS</title>
+</head>
+<body>
+    <h1> SHARE YOUR TRAVELS</h1>
+    <h2> New York -Central Park</h2>
+    <ul>
+        <li><a href="#description"> description</a></li>
+        <li><a href="#related travels">related travels</a></li>
+        <li><a href="#review">reviews</a></li>
+    </ul>
+    <h4 id="description">description</h4>
+    <p>photo by Sharath</p>
+    <p>this photo of conservatory location <a href="#">central park</a>in <a href="#">new york city</a>on october 22,2011</p>
+    <img src="C:\Users\hp\Desktop\park\central.jpg" alt="central park" class="cp" width="500px"><br>
+    <i class="cp">conservatary panel in central park</i>
+    <p>Share:</p>
+    <h4 id="related photos"> related photos</h4>
+    <img src="C:\Users\hp\Desktop\park\park01.jpg" alt="central park" width="100px">
+    <img src="C:\Users\hp\Desktop\park\park02.jpg" alt="central park" width="100px">
+    <img src="C:\Users\hp\Desktop\park\park03.jpg" alt="central park" width="100px">
+    <h4 id="review">review</h4>
+    <p>review by Sharath on september 2015</p>
+    <p>Easy on HDR</p>
+    <hr>
+    <p> review by Bharat on september 2016</p>
+    <p>easy on pixel</p>
+    <hr>
+    <nav><a href="#home">home</a><a href="#browse">browse</a><a href="#search">search</a></nav>
+    copyright 2015 share your travels 
+</body>
+</html>
