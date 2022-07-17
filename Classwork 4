@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Share Your Travels</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<strong>descrpition</strong>
+<hr class="mar">
+<em class="ab">Photo by Randy orton</em>
+<p>This conservatory pond in <a href="#">central park</a>in <a href="#">New York</a> was taken on October 30,2012 <br> with Cannon EOS 30D camera  </p>
+<figure>
+<img src="photos/ponds.jpg" alt="pond" height="500px" width="500px">
+<figcaption class="ab"><em>Conservatory Pond in Central Park</em></figcaption>
+</figure>
+Share:
+<a href="https://www.facebook.com/"><img src="photos/fb.png" alt="" height="50px" width="50px"></a>
+<a href="https://www.instagram.com/"><img src="photos/instagram.jpg" alt="" height="50px" width="50px"></a>
+<a href="https://www.whatsapp.com"><img src="photos/whtasapp.jpg" alt="" height="50px" width="50px"></a><br>
+<h4>Related Photos</h4>
+<hr class="mar">
+<a href=""><img src="photos/home.jpg" alt="" width="200px" width="200px"></a>
+<a href=""><img src="photos/pond.jpg" alt="" width="200px" width="200px"></a>
+<a href=""><img src="photos/bridge.jpg" alt="" width="200px" width="200px"></a>
+<h4 >Reviews</h4>
+<hr class="mar">
+<em>By KAJAL on September 1,2016</em><br>
+<b>Easy on HDR buddy</b>
+<hr>
+<em>By jungkook on october 11,2012</em><br>
+<b>I love Central Park</b>
+<hr>
+<footer>
+<nav>
+<a href="#">Home</a>
+<span>|</span>
+<a href="#">Browser</a>
+<span>|</span>
+<a href="#">Search</a>
+</nav>
+<p>Copyright © 2014 Share Your Travels</p>
+</footer>
+</body>
+</html>
